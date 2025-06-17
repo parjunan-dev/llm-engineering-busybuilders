@@ -6,7 +6,7 @@ The repostiory will track all environment files, code, and notebooks created thr
 
 ---
 
-## 📦 Environment Setup
+## Environment Setup
 
 This repository currently contains:
 - The environment setup files:
@@ -15,7 +15,7 @@ This repository currently contains:
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 ### Clone this repo
 
